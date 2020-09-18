@@ -1,0 +1,21 @@
+{
+    "name": "定制化-红外控制小车 #2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "mbit": "github:xledgers/yahboom_mbit#da48c702fa65f02d1c39c07170ea7167dac9fc10"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
